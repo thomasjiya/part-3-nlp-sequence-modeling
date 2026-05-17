@@ -1,0 +1,85 @@
+Sample Predictions — Logistic Regression (TF-IDF)
+============================================================
+
+[✓] Text  : like new payment easy use
+     True  : positive
+     Pred  : positive
+
+[✓] Text  : great service clear communication support team
+     True  : positive
+     Pred  : positive
+
+[✓] Text  : refund still pending experience frustrating
+     True  : negative
+     Pred  : negative
+
+[✓] Text  : app crashes whenever try use analytics
+     True  : negative
+     Pred  : negative
+
+[✓] Text  : response team helpful professional
+     True  : positive
+     Pred  : positive
+
+[✓] Text  : someone explain difference plans
+     True  : neutral
+     Pred  : neutral
+
+[✓] Text  : like new video call easy use
+     True  : positive
+     Pred  : positive
+
+[✓] Text  : like new report download easy use
+     True  : positive
+     Pred  : positive
+
+[✓] Text  : someone explain difference plans
+     True  : neutral
+     Pred  : neutral
+
+[✓] Text  : want understand warranty terms product
+     True  : neutral
+     Pred  : neutral
+
+[✓] Text  : refund process fast convenient appreciate quick response
+     True  : positive
+     Pred  : positive
+
+[✓] Text  : satisfied plan would recommend others
+     True  : positive
+     Pred  : positive
+
+[✓] Text  : need information payment process please respond soon possible
+     True  : neutral
+     Pred  : neutral
+
+[✓] Text  : confirm whether ticket assigned
+     True  : neutral
+     Pred  : neutral
+
+[✓] Text  : billing incorrect charged twice month
+     True  : negative
+     Pred  : negative
+
+[✓] Text  : satisfied plan would recommend others
+     True  : positive
+     Pred  : positive
+
+[✓] Text  : satisfied plan would recommend others
+     True  : positive
+     Pred  : positive
+
+[✓] Text  : checking scheduled maintenance today
+     True  : neutral
+     Pred  : neutral
+
+[✓] Text  : would like know available plans
+     True  : neutral
+     Pred  : neutral
+
+[✓] Text  : want cancel service quality poor unreliable please respond soon possible
+     True  : negative
+     Pred  : negative
+
+
+Overall Accuracy: 1.0000
